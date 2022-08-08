@@ -1,3 +1,7 @@
 body {
     color: blue;
+    background-color: azure;
+    background-attachment: fixed;
+    text-align: justify;
+    text-size-adjust: 22px;
 }
